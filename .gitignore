@@ -1,0 +1,10 @@
+.DS_Store
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+todo.txt
+bash.exe.stackdump
+vite.config.ts.timestamp-1760037476590-211ef748cadfc.mjs
+/src-tauri/
