@@ -23,7 +23,7 @@ export function Footer() {
             </a>
 
             <a
-              href="https://github.com/salomonalb/ear-training"
+              href="https://github.com/salomonalb/entrenamiento-auditivo"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors duration-200 p-2 hover:bg-gray-800 rounded-full"
